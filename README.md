@@ -2,6 +2,6 @@
 
 |              Docenti            | Anno Accademico |
 |:-----------------------------------:|:---------------:|
-| P. Bernardi<br>G. Insinga<br>F. Angione |    2023/2024    |
+| P. Bernardi, G. Insinga, F. Angione |    2023/2024    |
 
 Soluzioni NON verificate dei laboratori del corso di *Architetture dei Sistemi di Elaborazione*.
