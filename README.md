@@ -1,4 +1,4 @@
-# Laboratori ASE 2023/24
+# Architetture dei Sistemi di Elaborazione - Laboratori 2023/24
 
 |          Corso          |              Docenti            | Anno Accademico |
 |:-----------------------:|:-----------------------------------:|:---------------:|
