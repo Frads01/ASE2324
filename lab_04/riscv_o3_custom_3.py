@@ -263,7 +263,7 @@ def create_cpu(options, cpu_id):
     # - RENAME STAGE
     # ****************************
     the_cpu.numROBEntries = 64
-    the_cpu.numIQEntries = 2
+    the_cpu.numIQEntries = 4
     the_cpu.numPhysIntRegs = 80
     the_cpu.numPhysFloatRegs = 64
     the_cpu.renameWidth = 2
